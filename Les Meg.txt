@@ -1,0 +1,8 @@
+Mappens innhold og betydning:
+1. Applikasjons mappen innehar applikasjonen før noen av endringene har forekommet. 
+Altså, er dette applikasjonen som skal testes. 
+2. Enhetstest inneholder admin og bank test filene i PHP format. 
+3. Integrasjonstest har XML fil som kan brukes direkte inn i Soap UI, hvis ønsket. 
+4. Systemtest inneholder selenium filen, som kan settes direkte inne i Selenium IDE, hvis ønsket. 
+5. Test rapport innehar testrapporten.
+
